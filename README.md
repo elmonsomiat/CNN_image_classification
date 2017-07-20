@@ -5,7 +5,7 @@ This folder contains 5 different programmes:
 
 * rainforest_functions.py: 
 
-    This folder contains different functions that will be called from the other programmes
+    Contains different functions that will be called from the other programmes
 
 * readimages.ipynb: 
 
