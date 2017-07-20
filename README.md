@@ -42,6 +42,7 @@ This folder contains 5 different programmes:
 *Note that there we are just taking the green color due to lack of computing memory.
 
 The programme can be improved by:
+
     a) Not reducing the size of the images
     b) Rotating and resizing further images such that the training data becomes larger
     c) Creating a more complex neural network with further layers
